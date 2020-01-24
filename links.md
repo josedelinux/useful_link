@@ -17,3 +17,4 @@ C learning website [https://clc-wiki.net/wiki/](https://clc-wiki.net/wiki/ "Titl
 
 telnet watch StarWars [http://blinkenlights.nl/](http://blinkenlights.nl/ "Title")
 (try run 'telnet towel.blinkenlights.nl' to watch. To stop the animation, press `ctrl+]`. After that type `quit` to come out of telnet command.)
+or just in browser [http://asciimation.co.nz/](http://asciimation.co.nz/"Title")
