@@ -16,4 +16,4 @@ powerful online gcc gdb [http://onlinegdb.com/](http://onlinegdb.com/ "Title")
 C learning website [https://clc-wiki.net/wiki/](https://clc-wiki.net/wiki/ "Title")
 
 telnet watch StarWars [http://blinkenlights.nl/](http://blinkenlights.nl/ "Title")
-(try run 'telnet towel.blinkenlights.nl' )
+(try run 'telnet towel.blinkenlights.nl' to watch. To stop the animation, press `ctrl+]`. After that type `quit` to come out of telnet command.)
